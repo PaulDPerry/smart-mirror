@@ -57,4 +57,4 @@ build/
 
 # Secrets or config
 .env
-config.json
+#config.json
