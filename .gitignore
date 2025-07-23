@@ -39,3 +39,22 @@
 
 # debug information files
 *.dwo
+
+# Build files
+build/
+*.o
+*.out
+
+# System files
+.DS_Store
+
+# IDE/editor
+.vscode/
+*.swp
+
+
+
+
+# Secrets or config
+.env
+config.json
