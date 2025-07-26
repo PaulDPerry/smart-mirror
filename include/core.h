@@ -1,5 +1,5 @@
-#ifndef MODUEL_H
-#define MODUEL_H
+#ifndef CORE_H
+#define CORE_H
 
 #include<iostream>
 #include <thread>
