@@ -6,6 +6,7 @@
 #include <ctime>
 #include <string>
 #include <chrono>
+#include <vector>
 
 class Core{
   public:

@@ -7,10 +7,10 @@ int main ()
   Core core;
 
   while(true){
-    core.SetTime();
+    /* core.SetTime();
     std::string time =  core.GetTime();
     std::cout << time << std::endl;
-    std::this_thread::sleep_for(std::chrono::minutes(1));
+    std::this_thread::sleep_for(std::chrono::minutes(1)); */
   }
 
   return 0;

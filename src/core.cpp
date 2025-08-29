@@ -1,7 +1,6 @@
 #include "core.h"
 
-Core::Core(){};
-
+Core::Core(){}
 
 void Core::SetTime(){
   time_t now = time(NULL);
